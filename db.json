@@ -1,0 +1,283 @@
+{
+    "header": {
+        "heading": "5 Continentes, <br />infinitas possibilidades",
+        "text": "Chegou a hora de tirar do papel a viagem que você sempre sonhou."
+    },
+    "travel": [
+        { "img": "/drink.svg", "text": "vida noturna" },
+        { "img": "/surf.svg", "text": "praia" },
+        { "img": "/building.svg", "text": "moderno" },
+        { "img": "/museum.svg", "text": "clássico" },
+        { "img": "/earth.svg", "text": "e mais..." }
+    ],
+    "home": {
+        "title": "WorldTrip - Home",
+        "call-to-action": "Vamos nessa? <br />Então escolha seu continente"
+    },
+    "continentes": [{
+            "name": "Europa",
+            "link": "europa",
+            "description": "O continente mais antigo.",
+            "image": "/continents/europe.jpg"
+        },
+        {
+            "name": "América do Norte",
+            "link": "north_america",
+            "description": "Opções para todos os gostos.",
+            "image": "/continents/north_america.jpg"
+        },
+        {
+            "name": "América do Sul",
+            "link": "south_america",
+            "description": "Muitos destinos, fácil locomoção.",
+            "image": "/continents/south_america.jpg"
+        },
+        {
+            "name": "Ásia",
+            "link": "asia",
+            "description": "O maior dos continentes.",
+            "image": "/continents/asia.jpg"
+        },
+        {
+            "name": "África",
+            "link": "africa",
+            "description": "Diversidade étinica.",
+            "image": "/continents/africa.jpg"
+        },
+        {
+            "name": "Oceania",
+            "link": "oceania",
+            "description": "O \"novíssimo mundo.\"",
+            "image": "/continents/oceania.jpg"
+        }
+    ],
+    "continente_data": [{
+            "name": "Europa",
+            "link": "europa",
+            "image": "https://images.unsplash.com/photo-1550955862-a9af6534a740?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+            "amount_country": 50,
+            "amount_language": 60,
+            "city_100": 27,
+            "cities": [{
+                    "name": "Londres",
+                    "country": "Reino Unido",
+                    "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/gb.webp"
+                },
+                {
+                    "name": "Paris",
+                    "country": "França",
+                    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/fr.webp"
+                },
+                {
+                    "name": "Roma",
+                    "country": "Itália",
+                    "image": "https://images.unsplash.com/photo-1513120052856-2b18c0d4f696?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/it.webp"
+                },
+                {
+                    "name": "Praga",
+                    "country": "Republica Tcheca",
+                    "image": "https://images.unsplash.com/photo-1562624475-96c2bc08fab9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/cz.webp"
+                },
+                {
+                    "name": "Amsterdã",
+                    "country": "Holanda",
+                    "image": "https://images.unsplash.com/photo-1468436385273-8abca6dfd8d3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=994&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/nl.webp"
+                },
+                {
+                    "name": "Atenas",
+                    "country": "Grécia",
+                    "image": "https://images.unsplash.com/photo-1590507160325-88b8b59e7d0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/gr.webp"
+                }
+            ]
+        },
+        {
+            "name": "América do Norte",
+            "link": "north_america",
+            "image": "https://images.unsplash.com/photo-1588272947922-21cbc34dc3a7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+            "amount_country": 3,
+            "amount_language": 6,
+            "city_100": 10,
+            "cities": [{
+                    "name": "Cancun",
+                    "country": "México",
+                    "image": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1249&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/mx.webp"
+                },
+                {
+                    "name": "Toronto",
+                    "country": "Canadá",
+                    "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/ca.webp"
+                },
+                {
+                    "name": "Vancouver",
+                    "country": "Canadá",
+                    "image": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1092&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/ca.webp"
+                },
+                {
+                    "name": "São Francisco",
+                    "country": "Estados Unidos",
+                    "image": "https://images.unsplash.com/photo-1521747116042-5a810fda9664?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/us.webp"
+                },
+                {
+                    "name": "Nova York",
+                    "country": "Estados Unidos",
+                    "image": "https://images.unsplash.com/photo-1595901688281-9cef114adb0b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/us.webp"
+                },
+                {
+                    "name": "Honolulu",
+                    "country": "Estados Unidos",
+                    "image": "https://images.unsplash.com/photo-1573992554018-83e7853bd45f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/us.webp"
+                },
+                {
+                    "name": "Las Vegas",
+                    "country": "Estados Unidos",
+                    "image": "https://images.unsplash.com/photo-1470076892663-af684e5e15af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=917&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/us.webp"
+                }
+            ]
+        },
+        {
+            "name": "América do Sul",
+            "link": "south_america",
+            "image": "https://images.unsplash.com/photo-1519074598089-6436475c7f8f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80",
+            "description": "A América do Sul é um continenteque compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru. Seus limites naturais são: ao norte com o mar do Caribe; a leste, nordeste e sudeste com o oceano Atlântico; e a oeste com o oceano Pacífico. O Brasil representa atualmente a metade da população e produto econômico desta região.",
+            "amount_country": 12,
+            "amount_language": 10,
+            "city_100": 2,
+            "cities": [{
+                    "name": "Rio de Janeiro",
+                    "country": "Brasil",
+                    "image": "https://images.unsplash.com/photo-1516834611397-8d633eaec5d0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/br.webp"
+                },
+                {
+                    "name": "Buenos Aires",
+                    "country": "Argentina",
+                    "image": "https://images.unsplash.com/photo-1610307437538-8b57b1ded9eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/ar.webp"
+                }
+            ]
+        },
+        {
+            "name": "Ásia",
+            "link": "asia",
+            "image": "https://images.unsplash.com/photo-1464817739973-0128fe77aaa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+            "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. O ponto extremo setentrional do continente está localizado no oceano Glacial Ártico. Mas na parte meridional, a Ásia chega ao seu final na região mais quente dos trópicos, nas imediações da linha do equador.",
+            "amount_country": 50,
+            "amount_language": 2301,
+            "city_100": 29,
+            "cities": [{
+                    "name": "Jerusalém",
+                    "country": "Israel",
+                    "image": "https://images.unsplash.com/photo-1542743408-218cc173cda0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/il.webp"
+                },
+                {
+                    "name": "Moscou",
+                    "country": "Rússia",
+                    "image": "https://images.unsplash.com/photo-1576753092415-f4c74e4edc99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/ru.webp"
+                },
+                {
+                    "name": "Hong Kong",
+                    "country": "China",
+                    "image": "https://images.unsplash.com/photo-1553560015-3cad96043542?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/cn.webp"
+                },
+                {
+                    "name": "Dubai",
+                    "country": "Emirados Árabes",
+                    "image": "https://images.unsplash.com/photo-1459787915554-b34915863013?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=574&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/ae.webp"
+                },
+                {
+                    "name": "Tóquio",
+                    "country": "Japão",
+                    "image": "https://images.unsplash.com/photo-1570521462033-3015e76e7432?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/jp.webp"
+                },
+                {
+                    "name": "Cidade de Cingapura",
+                    "country": "Cingapura",
+                    "image": "https://images.unsplash.com/flagged/photo-1562503542-2a1e6f03b16b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/sg.webp"
+                },
+                {
+                    "name": "Mumbai",
+                    "country": "Índia",
+                    "image": "https://images.unsplash.com/photo-1601961405399-801fb1f34581?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/in.webp"
+                },
+                {
+                    "name": "Seul",
+                    "country": "Coréia do Sul",
+                    "image": "https://images.unsplash.com/photo-1546672136-49179bf19b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/kr.webp"
+                }
+            ]
+        },
+        {
+            "name": "África",
+            "link": "africa",
+            "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+            "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+            "amount_country": 54,
+            "amount_language": 2500,
+            "city_100": 2,
+            "cities": [{
+                    "name": "Joanesburgo",
+                    "country": "África do Sul",
+                    "image": "https://images.unsplash.com/photo-1576485375217-d6a95e34d043?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/za.webp"
+                },
+                {
+                    "name": "Cairo",
+                    "country": "Egito",
+                    "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/eg.webp"
+                }
+            ]
+        },
+        {
+            "name": "Oceania",
+            "link": "oceania",
+            "image": "https://images.unsplash.com/photo-1622732718352-d4c89c582f7c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1966&q=80",
+            "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes. Os limites da Oceania são definidos de várias maneiras. A maioria das definições reconhecem partes da Australásia como a Austrália, Nova Zelândia e Nova Guiné, e parte do Arquipélago Malaio como sendo partes da Oceania.",
+            "amount_country": 16,
+            "amount_language": 18,
+            "city_100": 3,
+            "cities": [{
+                    "name": "Auckland",
+                    "country": "Nova Zelândia",
+                    "image": "https://images.unsplash.com/photo-1576485375217-d6a95e34d043?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/nz.webp"
+                },
+                {
+                    "name": "Sydney",
+                    "country": "Austrália",
+                    "image": "https://images.unsplash.com/photo-1523059623039-a9ed027e7fad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3lkbmV5JTIwb3BlcmElMjBob3VzZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/au.webp"
+                },
+                {
+                    "name": "Melbourne",
+                    "country": "Austrália",
+                    "image": "https://images.unsplash.com/photo-1616408584818-c7d7ae7b0494?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80",
+                    "flag": "https://www.bandeirasnacionais.com/data/flags/h80/au.webp"
+                }
+            ]
+        }
+    ]
+}
